@@ -1,4 +1,4 @@
-# Loyal Rates
+# Forex Predictor
 
 This application will display exchange rates sourced from the [US
 Federal Reserve](https://www.federalreserve.gov/).
